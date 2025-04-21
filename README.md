@@ -29,13 +29,12 @@ Programul ilustrează cum două procese pot comunica între ele folosind mecanis
 3. Compilați fișierul principal comunicare_intre_procese.c:
    ```bash
    gcc comunicare_intre_procese.c -o comunicare_intre_procese
-
----
-
-## 🛠️ Funcționalități
 4. Rulați aplicația:
    ```bash
    ./comunicare_intre_procese
+---
+
+## 🛠️ Funcționalități
 - **Comunicare între procese**: Utilizează semnale pentru a trimite mesaje între procese.
 - **Sincronizare**: Procesele sunt sincronizate pentru a asigura o execuție corectă a fluxului de date.
 ---
